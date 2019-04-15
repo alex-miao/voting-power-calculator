@@ -154,8 +154,6 @@ public class VotingPowerCalc {
             return hashtext;
         } catch (NoSuchAlgorithmException e) { 
             throw new RuntimeException(e); 
-        } 
-       
-        
+        }  
     }
 }
